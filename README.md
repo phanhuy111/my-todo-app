@@ -28,6 +28,7 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 
 ## Project Structure
 
+```sh
 ├── public
 ├── src
 │ ├── components
@@ -47,6 +48,7 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 ├── README.md
 ├── tsconfig.json
 ├── vite.config.ts
+```
 
 - **components**: Contains React components for displaying and managing tasks.
 - **context**: Contains the data context for state management.
@@ -64,9 +66,24 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/phanhuy111/my-todo-app.git
-   cd my-todo-app
+      git clone https://github.com/phanhuy111/my-todo-app.git
+      cd my-todo-app
    ```
+2. **Install dependencies:**
+
+```sh
+    npm install
+    # or
+    yarn install
+```
+
+3. **Running the Application:**
+
+```sh
+    npm run dev
+    # or
+    yarn dev
+```
 
 Open your browser and go to http://localhost:3000.
 
