@@ -10,8 +10,6 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [State Management and Data Persistence](#state-management-and-data-persistence)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -25,6 +23,7 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 - Mark tasks as completed or pending
 - Reorder tasks with drag-and-drop functionality
 - Data persistence with local storage
+- Animation
 
 ## Project Structure
 
@@ -67,8 +66,8 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 1. **Clone the repository:**
 
 ```sh
-      git clone https://github.com/phanhuy111/my-todo-app.git
-      cd my-todo-app
+    git clone https://github.com/phanhuy111/my-todo-app.git
+    cd my-todo-app
 ```
 
 2. **Install dependencies:**
@@ -89,15 +88,18 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 
 Open your browser and go to http://localhost:3000.
 
-Usage
-Add Task: Fill out the form and click "Add Task" to add a new task.
-Update Task: Click on a task and modify its title or description to update it.
-Delete Task: Click the delete icon to remove a task.
-Toggle Status: Click the checkbox to mark a task as completed or pending.
-Reorder Tasks: Drag and drop tasks to reorder them.
-Technologies Used
-Vite: For blazing-fast development and build.
-React: For building the user interface.
-React Hook Form: For form management.
-Framer Motion: For animations and drag-and-drop functionality.
-TypeScript: For type safety.
+4. **Usage:**
+
+```sh
+  Add Task: Fill out the form and click "Add Task" to add a new task.
+  Update Task: Click on a task and modify its title or description to update it.
+  Delete Task: Click the delete icon to remove a task.
+  Toggle Status: Click the checkbox to mark a task as completed or pending.
+  Reorder Tasks: Drag and drop tasks to reorder them.
+  Technologies Used
+  Vite: For blazing-fast development and build.
+  React: For building the user interface.
+  React Hook Form: For form management.
+  Framer Motion: For animations and drag-and-drop functionality.
+  TypeScript: For type safety.
+```
