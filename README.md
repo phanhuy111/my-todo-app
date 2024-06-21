@@ -65,10 +65,12 @@ This is a simple task manager application built with Vite, React, Hook Form, and
 ### Installation Steps
 
 1. **Clone the repository:**
-   ```sh
+
+```sh
       git clone https://github.com/phanhuy111/my-todo-app.git
       cd my-todo-app
-   ```
+```
+
 2. **Install dependencies:**
 
 ```sh
