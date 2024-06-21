@@ -96,7 +96,11 @@ Open your browser and go to http://localhost:3000.
   Delete Task: Click the delete icon to remove a task.
   Toggle Status: Click the checkbox to mark a task as completed or pending.
   Reorder Tasks: Drag and drop tasks to reorder them.
-  Technologies Used
+```
+
+5. **Technologies Used:**
+
+```sh
   Vite: For blazing-fast development and build.
   React: For building the user interface.
   React Hook Form: For form management.
